@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # # McDonald's Menu Dataset 
 # The data consists of nutrients value of all the items that are served @McDonald's Outlets. 
 # The dataset is taken from kaggle.
